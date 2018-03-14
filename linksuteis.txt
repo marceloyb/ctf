@@ -1,3 +1,6 @@
+Ae galera, sou iniciante tbm, mas esses foram alguns dos links que usei pra começar a aprender mais sobre o universo dos Capture the Flags de Segurança.
+
+
 https://www.endgame.com/blog/technical-blog/how-get-started-ctf
 
 
