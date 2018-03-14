@@ -1,0 +1,12 @@
+https://www.endgame.com/blog/technical-blog/how-get-started-ctf
+
+
+https://www.alienvault.com/blogs/security-essentials/capture-the-flag-ctf-what-is-it-for-a-newbie
+
+https://www.reddit.com/r/securityCTF/
+
+https://www.reddit.com/r/securityCTF/comments/7rzef7/what_should_i_know_before_get_starting_in_ctf/
+
+http://www.blackroomsec.com/updated-hacking-challenge-site-links/
+
+http://overthewire.org/wargames/
